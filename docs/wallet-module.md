@@ -1,12 +1,8 @@
 # Wallet Module Documentation
 
-Created by: Mark Serbol
-Created time: July 27, 2025 9:22 AM
-Category: API Module, Technical
-Last edited by: Mark Serbol
-Last updated time: July 27, 2025 9:30 AM
+**Tags:** `API Module` `Technical` `Payments` `Wallet`
 
-**Location:** `src/wallet/`
+**Location:** `src/wallet/`
 
 ## **Purpose**
 
@@ -104,3 +100,12 @@ Manages user wallet operations, Stripe account integration, payouts, payments, e
 - Add new payout/payment methods by extending service and controller.
 - Integrate additional financial providers as needed.
 - Add admin endpoints for global financial reporting if required (with strict role checks).
+
+---
+
+**Document Information**
+- Created by: Mark Serbol
+- Created time: July 27, 2025 9:22 AM
+- Category: API Module, Technical
+- Last edited by: Mark Serbol
+- Last updated time: July 27, 2025 9:30 AM

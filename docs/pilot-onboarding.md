@@ -1,12 +1,8 @@
 # ZIPFood Pilot Onboarding Guide
 
-Created by: Mark Serbol
-Created time: July 23, 2025 8:54 AM
-Category: Onboarding, Pilot
-Last edited by: Mark Serbol
-Last updated time: July 23, 2025 9:23 AM
+**Tags:** `Pilot` `Onboarding` `Robot Operator`
 
-As a ZIPFood Pilot, you’ll complete onboarding to activate your account and start accepting delivery jobs. Here’s what each step means:
+As a ZIPFood Pilot, you'll complete onboarding to activate your account and start accepting delivery jobs. Here's what each step means:
 
 ## **1. Enter Address Details**
 
@@ -112,3 +108,12 @@ Authorize ZIPFood to verify your account.
 - You can skip steps and return later, but full access requires completion.
 - Your payment method is only used for receiving payouts.
 - All information is securely stored and used only for onboarding and payments.
+
+---
+
+**Document Information**
+- Created by: Mark Serbol
+- Created time: July 23, 2025 8:54 AM
+- Category: Onboarding, Pilot
+- Last edited by: Mark Serbol
+- Last updated time: July 23, 2025 9:23 AM

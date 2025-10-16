@@ -1,12 +1,8 @@
 # Profile Module Documentation
 
-Created by: Mark Serbol
-Created time: July 27, 2025 9:39 AM
-Category: API Module, Technical
-Last edited by: Mark Serbol
-Last updated time: July 27, 2025 12:37 PM
+**Tags:** `API Module` `Technical` `User Management`
 
-**Location:** `src/profile/`
+**Location:** `src/profile/`
 
 ## **Purpose**
 
@@ -88,3 +84,12 @@ All DTOs are generated from Zod schemas and validated automatically.
 
 - Add new fields to `ProfileSchema` and update Prisma models as needed.
 - Extend DTOs and controller logic for new business requirements.
+
+---
+
+**Document Information**
+- Created by: Mark Serbol
+- Created time: July 27, 2025 9:39 AM
+- Category: API Module, Technical
+- Last edited by: Mark Serbol
+- Last updated time: July 27, 2025 12:37 PM

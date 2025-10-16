@@ -1,12 +1,8 @@
 # Orders Module Documentation
 
-Created by: Mark Serbol
-Created time: July 27, 2025 8:47 AM
-Category: API Module, Technical
-Last edited by: Mark Serbol
-Last updated time: August 3, 2025 9:12 AM
+**Tags:** `API Module` `Technical` `Orders`
 
-**Location:** `src/orders/`
+**Location:** `src/orders/`
 
 ## **Purpose**
 
@@ -93,3 +89,12 @@ Handles creation, retrieval, update, assignment, and status management of orders
 - Add new order fields in the Prisma schema and regenerate Zod types.
 - Extend controller/service for additional business logic (e.g., custom assignment rules, notifications).
 - Integrate with other modules (e.g., payments, robots, pilots) as needed.
+
+---
+
+**Document Information**
+- Created by: Mark Serbol
+- Created time: July 27, 2025 8:47 AM
+- Category: API Module, Technical
+- Last edited by: Mark Serbol
+- Last updated time: August 3, 2025 9:12 AM

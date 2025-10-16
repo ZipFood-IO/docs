@@ -1,12 +1,8 @@
 # Users Module Documentation
 
-Created by: Mark Serbol
-Created time: July 25, 2025 9:57 AM
-Category: API Module, Technical
-Last edited by: Mark Serbol
-Last updated time: July 25, 2025 10:06 AM
+**Tags:** `API Module` `Technical` `User Management`
 
-**Location:** `src/users/`
+**Location:** `src/users/`
 
 ## **Purpose**
 
@@ -93,3 +89,12 @@ Manages user data, including creation, retrieval, update, deletion, and password
 - Add new user fields in the Prisma schema and regenerate Zod types.
 - Extend controller/service for additional user-related features (e.g., roles, preferences).
 - Integrate with other modules (e.g., notifications, orders) as needed.
+
+---
+
+**Document Information**
+- Created by: Mark Serbol
+- Created time: July 25, 2025 9:57 AM
+- Category: API Module, Technical
+- Last edited by: Mark Serbol
+- Last updated time: July 25, 2025 10:06 AM

@@ -1,10 +1,6 @@
 # ZIPFood Payouts Guide (Pilots)
 
-Created by: Mark Serbol
-Created time: July 23, 2025 1:59 PM
-Category: Pilot
-Last edited by: Mark Serbol
-Last updated time: July 23, 2025 2:07 PM
+**Tags:** `Pilot` `Payouts` `Earnings`
 
 This guide explains how you can view your earnings and cash out your balance as a ZIPFood Pilot.
 
@@ -64,3 +60,12 @@ This guide explains how you can view your earnings and cash out your balance as 
 - Your payment and payout information is securely stored and encrypted.
 - ZIPFood uses Stripe, a trusted industry-standard payment processor, to handle all payments and payouts—ensuring your financial data is protected and transactions are safe.
 - Only you can manage your payout methods through your account.
+
+---
+
+**Document Information**
+- Created by: Mark Serbol
+- Created time: July 23, 2025 1:59 PM
+- Category: Pilot
+- Last edited by: Mark Serbol
+- Last updated time: July 23, 2025 2:07 PM

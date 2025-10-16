@@ -1,12 +1,8 @@
 # ZIPFood Customer Onboarding Guide
 
-Created by: Mark Serbol
-Created time: July 18, 2025 2:47 PM
-Category: Customer, Onboarding
-Last edited by: Mark Serbol
-Last updated time: July 23, 2025 9:23 AM
+**Tags:** `Customer` `Onboarding` `Robot Owner`
 
-To access all features, you’ll need to complete onboarding. Here’s what to expect at each step:
+To access all features, you'll need to complete onboarding. Here's what to expect at each step:
 
 ## **1. Address Details**
 
@@ -134,4 +130,13 @@ Check all your submitted information.
 
 - Review each section for accuracy.
 - Click on any item to edit.
-- Once everything is “Added,” click “Next.”
+- Once everything is "Added," click "Next."
+
+---
+
+**Document Information**
+- Created by: Mark Serbol
+- Created time: July 18, 2025 2:47 PM
+- Category: Customer, Onboarding
+- Last edited by: Mark Serbol
+- Last updated time: July 23, 2025 9:23 AM

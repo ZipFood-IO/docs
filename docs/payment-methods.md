@@ -1,12 +1,8 @@
 # Payment Method Module Documentation
 
-Created by: Mark Serbol
-Created time: July 27, 2025 9:48 AM
-Category: API Module, Technical
-Last edited by: Mark Serbol
-Last updated time: July 27, 2025 12:38 PM
+**Tags:** `API Module` `Technical` `Payments`
 
-**Location:** `src/payment-methods/`
+**Location:** `src/payment-methods/`
 
 ## **Purpose**
 
@@ -67,3 +63,12 @@ All DTOs are generated from Zod schemas and validated automatically.
 - Add support for additional payment method types by extending service logic.
 - Integrate with other modules for payment flows (e.g., orders, wallet).
 - Add admin endpoints for global payment method management if needed (with strict role checks).
+
+---
+
+**Document Information**
+- Created by: Mark Serbol
+- Created time: July 27, 2025 9:48 AM
+- Category: API Module, Technical
+- Last edited by: Mark Serbol
+- Last updated time: July 27, 2025 12:38 PM

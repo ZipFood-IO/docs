@@ -1,10 +1,6 @@
 # ZIPFood Robot Management Guide
 
-Created by: Mark Serbol
-Created time: July 23, 2025 3:58 PM
-Category: Customer
-Last edited by: Mark Serbol
-Last updated time: July 23, 2025 4:02 PM
+**Tags:** `Customer` `Robot Management` `Operations`
 
 This guide explains how to manage your robot(s) in the ZIPFood platform.
 
@@ -63,6 +59,15 @@ This guide explains how to manage your robot(s) in the ZIPFood platform.
 
 ## **Tips**
 
-- Keep your robot’s profile and settings up to date for best performance.
+- Keep your robot's profile and settings up to date for best performance.
 - Schedule regular maintenance and monitor charging analytics.
 - Use the dashboard to quickly access all robot-related information and controls.
+
+---
+
+**Document Information**
+- Created by: Mark Serbol
+- Created time: July 23, 2025 3:58 PM
+- Category: Customer
+- Last edited by: Mark Serbol
+- Last updated time: July 23, 2025 4:02 PM

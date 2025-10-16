@@ -1,10 +1,6 @@
 # ZIPFood Order Lifecycle & Fulfillment (Client Guide)
 
-Created by: Mark Serbol
-Created time: July 23, 2025 9:12 AM
-Category: Client
-Last edited by: Mark Serbol
-Last updated time: July 23, 2025 2:12 PM
+**Tags:** `Client` `Orders` `Lifecycle` `Fulfillment`
 
 This guide explains how orders work for ZIPFood Clients, from creation to completion.
 
@@ -118,6 +114,13 @@ You can set up notifications for each order:
 - For delivery issues, use the contact info in the order details.
 - You can always cancel or edit orders before they are completed.
 
+If you have questions or need help, contact ZIPFood support via your dashboard.
+
 ---
 
-If you have questions or need help, contact ZIPFood support via your dashboard.
+**Document Information**
+- Created by: Mark Serbol
+- Created time: July 23, 2025 9:12 AM
+- Category: Client
+- Last edited by: Mark Serbol
+- Last updated time: July 23, 2025 2:12 PM

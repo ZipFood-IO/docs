@@ -1,12 +1,8 @@
 # ZIPFood Client Onboarding Guide
 
-Created by: Mark Serbol
-Created time: July 23, 2025 8:18 AM
-Category: Client, Onboarding
-Last edited by: Mark Serbol
-Last updated time: July 23, 2025 9:23 AM
+**Tags:** `Client` `Onboarding` `Business Setup`
 
-As a ZIPFood Client, you’ll complete onboarding to set up your business account and enable order placement. Here’s what each step means:
+As a ZIPFood Client, you'll complete onboarding to set up your business account and enable order placement. Here's what each step means:
 
 ## **1. Business Information**
 
@@ -109,3 +105,12 @@ Authorize ZIPFood to verify your account.
 - You can skip steps and return later, but full access requires completion.
 - Your payment method is only used for billing ZIPFood for orders you place.
 - All information is securely stored and used only for onboarding and billing.
+
+---
+
+**Document Information**
+- Created by: Mark Serbol
+- Created time: July 23, 2025 8:18 AM
+- Category: Client, Onboarding
+- Last edited by: Mark Serbol
+- Last updated time: July 23, 2025 9:23 AM

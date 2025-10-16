@@ -1,12 +1,8 @@
 # Robot Module Documentation
 
-Created by: Mark Serbol
-Created time: July 27, 2025 2:47 PM
-Category: API Module, Technical
-Last edited by: Mark Serbol
-Last updated time: July 27, 2025 2:57 PM
+**Tags:** `API Module` `Technical` `Robotics`
 
-**Location:** `src/robots/`
+**Location:** `src/robots/`
 
 ## **Purpose**
 
@@ -103,5 +99,13 @@ Handles all robot-related business logic and exposes REST endpoints for both rob
 > 
 > However, the backend is designed to allow multiple robots per user, and API responses may return an array of user robots.
 > 
-> If you plan to extend the frontend to support multiple robots, you’ll need to update the UI and logic to handle the full array from the backend.
->
+> If you plan to extend the frontend to support multiple robots, you'll need to update the UI and logic to handle the full array from the backend.
+
+---
+
+**Document Information**
+- Created by: Mark Serbol
+- Created time: July 27, 2025 2:47 PM
+- Category: API Module, Technical
+- Last edited by: Mark Serbol
+- Last updated time: July 27, 2025 2:57 PM

@@ -1,12 +1,8 @@
 # Auth Module Documentation
 
-Created by: Mark Serbol
-Created time: July 24, 2025 6:01 PM
-Category: API Module, Technical
-Last edited by: Mark Serbol
-Last updated time: July 25, 2025 10:06 AM
+**Tags:** `API Module` `Technical` `Authentication`
 
-**Location:** `src/auth/`
+**Location:** `src/auth/`
 
 **Purpose:**
 
@@ -124,5 +120,14 @@ All authentication strategies are implemented using Passport.js through the `
 ### Extending/Customizing
 
 - Add new OAuth providers by implementing new strategy classes and updating the module.
-- Add new user types by updating profile creation logic in `createProfile`.
+- Add new user types by updating profile creation logic in `createProfile`.
 - Adjust password/2FA policies as needed in service methods.
+
+---
+
+**Document Information**
+- Created by: Mark Serbol
+- Created time: July 24, 2025 6:01 PM
+- Category: API Module, Technical
+- Last edited by: Mark Serbol
+- Last updated time: July 25, 2025 10:06 AM
