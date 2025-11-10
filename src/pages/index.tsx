@@ -1,45 +1,37 @@
 import type {ReactNode} from 'react';
-import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import Heading from '@theme/Heading';
-
-import styles from './index.module.css';
-
-function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        {/* <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-        </div> */}
-      </div>
-    </header>
-  );
-}
 
 export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
-      {/* <main>
-        <HomepageFeatures />
-      </main> */}
+    <Layout title={siteConfig.title} description={siteConfig.tagline}>
+      <header className="hero hero--primary" style={{padding: '4rem 0'}}>
+        <div className="container" style={{textAlign: 'center'}}>
+          <h1 className="hero__title">{siteConfig.title}</h1>
+          <p className="hero__subtitle" style={{marginBottom: '1.5rem'}}>{siteConfig.tagline}</p>
+
+          <div style={{display: 'flex', gap: '1rem', justifyContent: 'center'}}>
+            <Link className="button button--primary button--lg" to="/docs/docs/intro">
+              Get started
+            </Link>
+            <Link className="button button--secondary button--lg" to="/docs/docs/Demos/account-settings">
+              View demos
+            </Link>
+          </div>
+        </div>
+      </header>
+
+      <main>
+        <section style={{maxWidth: 960, margin: '2rem auto', padding: '0 1rem'}}>
+          <h2>Welcome</h2>
+          <p>
+            This documentation hub contains guides for Clients, Robot Owners, and Pilots.
+            Use the "Get started" button to jump into the docs, or explore the quick demos to see flows in action.
+          </p>
+        </section>
+      </main>
     </Layout>
-    
   );
 }
